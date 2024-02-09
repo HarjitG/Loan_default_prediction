@@ -1,13 +1,13 @@
 # Loan Default prediction 
 
-In this notebook I am exploring a dataset looking at those who paid back their business loas on time and those who defaulted, and trying to predict whether a business is likely to default on their loan.
+In this notebook I am exploring a dataset looking at those who paid back their business loans on time and those who defaulted, and trying to predict whether a business is likely to default on their loan or not.
 
 ## Data Cleaning 
 
-- Used one hot encoding for categorical columns
-- Utilised label encoding for large categorical columns
+- Used One Hot Encoding for categorical columns
+- Utilised Label Encoding for large categorical columns
 - Implemented Standard Scalar
-- Balanced classes to prevent bias in model building
+- Balanced classes to prevent bias in model building phase
 
 ## Model Building
 
